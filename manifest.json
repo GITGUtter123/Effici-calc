@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Calculator Simple",
+  "description": "A simple calculator Chrome extension.",
+  "version": "1.0",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
